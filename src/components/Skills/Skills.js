@@ -8,8 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range a technologies in the Data world.
     </SectionText>
     <List>
       <ListItem>
@@ -17,10 +16,10 @@ const Technologies = () =>  (
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
+          <ListTitle>Data Visualization</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            PowerBI and DataStudio
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,10 +28,12 @@ const Technologies = () =>  (
           <DiFirebase size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Data Management</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Expert in Data Quality, <br />
+            Data Governance and <br />
+            Metadata using different <br />
+            tools like Collibra and Atlassian
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,13 +42,15 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Data Analysis</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            Python and SQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <br />
+      
     </List>
     <SectionDivider colorAlt />
   </Section>
