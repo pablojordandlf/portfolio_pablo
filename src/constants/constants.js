@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  
+  { year: 2017, text: 'Graduated in Industrial Management Engineering', },
+  { year: 2018, text: 'Started to be interested in Data Analytics', },
+  { year: 2019, text: 'MsC in Data Science, University of Navarra', },
+  { year: "2020+", text: 'Continuos training in multiple areas like Blockchain, Agile methodologies, Data Analysis, etc.', },
 ];

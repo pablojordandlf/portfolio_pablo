@@ -1,5 +1,6 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiGoogleAnalytics, DiZend } from 'react-icons/di';
+import { IoMdRocket } from "react-icons/io";
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './SkillsStyles';
 
@@ -8,18 +9,19 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the Data world.
+      I have worked with a range a technologies in the Data world.
     </SectionText>
     <List>
       <ListItem>
         <picture>
-          <DiReact size="3rem" />
+          <DiGoogleAnalytics size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Data Visualization</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            PowerBI and DataStudio
+            PowerBI, Tableau <br />
+            and DataStudio
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,25 +34,25 @@ const Technologies = () =>  (
           <ListParagraph>
             Expert in Data Quality, <br />
             Data Governance and <br />
-            Metadata using different <br />
+            Metadata using several <br />
             tools like Collibra and Atlassian
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiZend size="3rem" />
+          <IoMdRocket size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Data Analysis</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Python and SQL
+            Python and SQL mainly <br />
+            in GCP environment
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <br />
-      
     </List>
     <SectionDivider colorAlt />
   </Section>
