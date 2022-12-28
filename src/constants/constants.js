@@ -44,3 +44,36 @@ export const TimeLineData = [
   { year: 2019, text: 'MsC in Data Science, University of Navarra', },
   { year: "2020+", text: 'Continuos training in multiple areas like Blockchain, Agile methodologies, Data Analysis, etc.', },
 ];
+
+export const hobbies = [
+  {
+    title: 'Arts',
+    description: "I identify myself as a very artistic person, and perhaps it is a heritage from my mother, who was a music teacher. Since I was little I started playing the piano, and I enjoyed music and painting very much. Now I have left music aside a little bit, although I always look for moments to continue painting!",
+    image: '/images/hobbies3.jpg',
+    id: 0,
+  },
+  {
+    title: 'Cooking',
+    description:"Cooking is perfect! It allows you be creative, de-stress, it can also be a social activity, and helps you to take care of yourself and others :)",
+    image: '/images/hobbies2.jpeg',
+    id: 1,
+  },
+  {
+    title: 'Sports',
+    description: "I love practicing sports like handball, tenis, padel, boxing, cycling and running. It not only helps me to improve my physical and mental health, but also to have new challenges and meet people.",
+    image: '/images/hobbies1.jpg',
+    id: 2,
+  },
+  {
+    title: 'Nature',
+    description: "Nature is awesome. I do not know a better feeling than being surrounded by nature, listening the deepest silence, or the roar of a waterfall.",
+    image: '/images/hobbies4.jpg',
+    id: 3,
+  },
+  {
+    title: 'Travel',
+    description: "The feeling of exploring new places and cultures, learning new things, being inspired by other realities. It's like popcorn, once you start you cannot stop!",
+    image: '/images/hobbies5.jpg',
+    id: 4,
+  },
+];
