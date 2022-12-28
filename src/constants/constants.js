@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Co-founded Nikarit',
+    description: "Nikarit is a Social Enterprise that was founded with the objective of empowering women in Beninese society. For that purpose, we started buying Shea Butter directly to cooperatives of women located in Nikki (Benin, Africa), market it in Spain, and reinvest the 100% of the profit earned in Development Projects on their communities.",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Social Impact', 'Entrepreneurship'],
+    source: '',
+    visit: 'https://nikarit.es/',
     id: 0,
   },
   {
