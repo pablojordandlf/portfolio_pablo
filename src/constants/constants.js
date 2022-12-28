@@ -49,7 +49,7 @@ export const hobbies = [
   {
     title: 'Arts',
     description: "I identify myself as a very artistic person, and perhaps it is a heritage from my mother, who was a music teacher. Since I was little I started playing the piano, and I enjoyed music and painting very much. Now I have left music aside a little bit, although I always look for moments to continue painting!",
-    image: '/images/hobbies3.jpg',
+    image: '/images/hobbies3.JPG',
     id: 0,
   },
   {
@@ -61,19 +61,19 @@ export const hobbies = [
   {
     title: 'Sports',
     description: "I love practicing sports like handball, tenis, padel, boxing, cycling and running. It not only helps me to improve my physical and mental health, but also to have new challenges and meet people.",
-    image: '/images/hobbies1.jpg',
+    image: '/images/hobbies1.JPG',
     id: 2,
   },
   {
     title: 'Nature',
     description: "Nature is awesome. I do not know a better feeling than being surrounded by nature, listening the deepest silence, or the roar of a waterfall.",
-    image: '/images/hobbies4.jpg',
+    image: '/images/hobbies4.JPG',
     id: 3,
   },
   {
     title: 'Travel',
     description: "The feeling of exploring new places and cultures, learning new things, being inspired by other realities. It's like popcorn, once you start you cannot stop!",
-    image: '/images/hobbies5.jpg',
+    image: '/images/hobbies5.JPG',
     id: 4,
   },
 ];
