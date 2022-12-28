@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './ValuesStyles';
 
 const data = [
-  { value: "Proactivyty", text: 'Never settle'},
+  { value: "Proactivity", text: 'Never settle'},
   { value: "Simplicity", text: 'Be clear to reduce confusion & frustration', },
   { value: "Out of the Box", text: 'think outside of established frameworks', },
   { value: "Work-life balance", text: '"Mens sana in corpore sano"', },
