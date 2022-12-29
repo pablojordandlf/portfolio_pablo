@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 const Hero = () => (
@@ -9,18 +8,18 @@ const Hero = () => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Pablo Jordán <br />
+          Hey! I'm <br />
+          Pablo Jordán, <br />
         </SectionTitle>
 
         <SectionText>
-        "The impact you have on the world is not determined by your talents or abilities, but rather by the choices you make and the actions you take. Never give up on the things that truly matter to you, because every moment of your life has the power to shape the world around you in ways you could never have imagined." <br />
-        ChatGPT
-        
+        a highly motivated person with passion for data and a desire to make a positive impact on the world. <br />
+        I have a wealth of experience working in various companies, which has given me a diverse skill set and valuable insights into the business world. <br />
+        I am analytical and detail-oriented, with a strong aptitude for problem-solving and decision-making. <br />
+        I have experience extracting insights from data, with a background in data visualization, which allows me to effectively communicate findings to others.
+
         </SectionText>
-        < br />< br />< br />< br />< br />< br />
-        
-        
-        
+        < br />< br />< br />< br />
         
       </LeftSection>
     </Section>

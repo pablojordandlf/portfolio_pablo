@@ -1,5 +1,7 @@
 import Acomplishments from '../components/Values/Values';
 import BgAnimation from '../components/BackgrooundAnimation/BackgroundAnimation';
+import TestIMG from '../components/BackgrooundAnimation/testimage';
+
 import Hero from '../components/Hero/Hero';
 import Projects from '../components/Experience/Experience';
 import Technologies from '../components/Skills/Skills';
@@ -14,6 +16,7 @@ const Home = () => {
       <Section grid>
         <Hero />
         <BgAnimation />
+        {/*<TestIMG />*/}
       </Section>
       <Projects />
       <Technologies />
