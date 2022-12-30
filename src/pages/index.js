@@ -17,19 +17,20 @@ const Home = () => {
     <div>
       <Head>
         <title>
-          Portfolio Pablo Jordán
+          Pablo Jordán's porfolio
         </title>
         <meta property="og:url" content="https://portfolio-pablo-jordan.vercel.app/" />
         <meta property="og:type" content="website" />
+        <meta property="og:linkedin" content = "Pablo Jordán's porfolio"/>
         <meta
           property="og:title"
-          content="Porfolio Pablo Jordán"
+          content="Pablo Jordán's porfolio"
         />
         <meta
           property="og:description"
           content="Hey! I'm Pablo Jordán, welcome to my portfolio!"
         />
-        <meta property="og:image" content={"/image/meta.jpg"} />
+        <meta property="og:image" content={"/images/meta.jpg"} />
       </Head>
 
       <Layout>
