@@ -28,9 +28,9 @@ const Home = () => {
         />
         <meta
           property="og:description"
-          content="Hey! I'm Pablo Jordán, welcome to my portfolio."
+          content="Hey! I'm Pablo Jordán, welcome to my portfolio. "
         />
-        <meta property="og:image" content={"/images/meta.jpg"} />
+        <meta property="og:image" content={" https://firebasestorage.googleapis.com/v0/b/portfolio-pablojordan.appspot.com/o/meta.jpg?alt=media&token=3e9d5e0c-051d-4f8b-ae7e-dac7a3b15b05 "} />
         
       </Head>
 
