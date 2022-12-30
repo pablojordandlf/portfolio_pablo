@@ -17,18 +17,18 @@ const Home = () => {
     <div>
       <Head>
         <title>
-          Pablo Jordán's porfolio
+          Pablo Jordán's porfolio, get to know me!
         </title>
         <meta property="og:url" content="https://portfolio-pablo-jordan.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta property="linkedin:card" content = "Pablo Jordán's porfolio"/>
         <meta
           property="og:title"
-          content="Pablo Jordán's porfolio"
+          content="Pablo Jordán's porfolio, get to know me!"
         />
         <meta
           property="og:description"
-          content="Hey! I'm Pablo Jordán, welcome to my portfolio. "
+          content="Hey! I'm Pablo Jordán, welcome to my portfolio, get to know me! "
         />
         <meta property="og:image" content={" https://firebasestorage.googleapis.com/v0/b/portfolio-pablojordan.appspot.com/o/meta.jpg?alt=media&token=3e9d5e0c-051d-4f8b-ae7e-dac7a3b15b05 "} />
         
