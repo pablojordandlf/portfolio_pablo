@@ -21,16 +21,17 @@ const Home = () => {
         </title>
         <meta property="og:url" content="https://portfolio-pablo-jordan.vercel.app/" />
         <meta property="og:type" content="website" />
-        <meta property="og:linkedin" content = "Pablo Jordán's porfolio"/>
+        <meta property="linkedin:card" content = "Pablo Jordán's porfolio"/>
         <meta
           property="og:title"
           content="Pablo Jordán's porfolio"
         />
         <meta
           property="og:description"
-          content="Hey! I'm Pablo Jordán, welcome to my portfolio!"
+          content="Hey! I'm Pablo Jordán, welcome to my portfolio."
         />
         <meta property="og:image" content={"/images/meta.jpg"} />
+        
       </Head>
 
       <Layout>
